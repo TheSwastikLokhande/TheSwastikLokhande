@@ -48,6 +48,13 @@
             font-size: 1.02rem;
         }
 
+        main hr {
+            border: 0;
+            background: #9c97f1;
+            height: 1.2px;
+            margin: 60px 84px;
+        }
+
         .left {
             font-size: 2rem;
         }
@@ -55,7 +62,7 @@
         .firstSection {
             display: flex;
             justify-content: space-around;
-            margin: 80px 0;
+            margin: 90px 0;
             align-items: center;
         }
 
@@ -67,6 +74,9 @@
             font-size: 2.5rem;
             /* margin: 70px 0; */
         }
+        .leftSection .btn{
+            padding: 12px;
+        }
 
         .rightSection img {
             width: 99%;
@@ -76,14 +86,111 @@
         .purple {
             color: blueviolet;
         }
-        #element{
-            color: blueviolet;
-  
+
+        .text-gray {
+            color: gray;
         }
-        .secondSection{
+
+        #element {
+            color: blueviolet;
+
+        }
+
+        .secondSection {
             max-width: 80vw;
             margin: auto;
+            font-size: 1.9rem;
+            height: 80vh;
         }
+
+        .secondSection .Box {
+            background: white;
+            width: 85vw;
+            height: 2px;
+            margin: 106px 0;
+            display: flex;
+            margin-top: 80;
+
+
+
+        }
+
+        .secondSection .vertical {
+            height: 93px;
+            width: 1px;
+            background-color: white;
+            margin: 0 130px;
+
+
+        }
+
+        .image-top {
+            width: 23px;
+            position: relative;
+            top: -44px;
+            left: -10px;
+
+        }
+
+
+        .vertical-title {
+            position: relative;
+            top: 55px;
+            left: -34px;
+
+            width: 200px;
+
+        }
+
+        .vertical-desc {
+            width: 150px;
+            position: relative;
+            top: 67px;
+            color: gray;
+            font-size: 9px;
+            left: -35px;
+        }
+
+        footer {
+            background-color: #0e0e1a;
+        }
+
+        .footer {
+            justify-content: space-evenly;
+            display: flex;
+            height: 223px;
+            padding: 23px 122px;
+        }
+
+        .footer .footer-second ul li {
+            text-decoration: none;
+            list-style: none;
+            padding: 10px;
+        }
+
+        .footer>div {
+            width: 223px;
+        }
+        footer .footer-rights{
+            text-align: center;
+            color: gray;
+            padding: 12px 0;
+        }
+
+        .btn {
+  background-color: rgb(4, 42, 1);
+  border: none;
+  color: white;
+  padding: 12px 30px;
+  cursor: pointer;
+  font-size: 20px;
+}
+
+/* Darker background on mouse-over */
+.btn:hover {
+  background-color: darkgray;
+  
+}
     </style>
 </head>
 
@@ -111,23 +218,103 @@
                 <div>in</div>
 
                 <span id="element"></span>
+                <div class="buttons">
+                    <button class="btn"><i class="fa fa-download"></i href=""><li>Download Resume</li> </button>
+                    <button class="btn"><i class="fa fa-download"></i>Visit GitHub</button>
+
+                </div>
             </div>
             <div class="rightSection">
                 <img src="img/bg.png" alt="">
             </div>
         </section>
-
+        <hr>
         <section class="secondSection">
-            <h1>Past Experience</h1>
-        </section>
+            <span class="text-gray">What i hanve done so far</span>
+            <h1>Work Experience</h1>
+            <div class="Box">
+                <div class="vertical">
+                    <img class="image-top" src="img/html-logo.png" alt="">
+                    <div class="vertical-title">
+                        HTML Developer (2010-2012)
+                    </div>
+                    <div class="vertical-desc">
+                        Lorem ipsum dolor sit amet consectetur adipisicing elit. Vitae repellendus nihil ab ipsa,
+                        recusandae provident pariatur mollitia vel quod illum error optio sint dignissimos, quia
+                        praesentium fuga eius ullam consequatur!
+                    </div>
+                </div>
+
+                <div class="vertical">
+                    <img class="image-top" src="img/node.png" alt="">
+                    <div class="vertical-title">
+                        Node.js Developer (2012-2014)
+                    </div>
+                    <div class="vertical-desc">
+                        Lorem ipsum dolor sit amet consectetur adipisicing elit. Vitae repellendus nihil ab ipsa,
+                        recusandae provident pariatur mollitia vel quod illum error optio sint dignissimos, quia
+                        praesentium fuga eius ullam consequatur!
+                    </div>
+                </div>
+
+                <div class="vertical">
+                    <img class="image-top" src="img/html-logo.png" alt="">
+                    <div class="vertical-title">
+                        HTML Developer (2014-2016)
+                    </div>
+                    <div class="vertical-desc">
+                        Lorem ipsum dolor sit amet consectetur adipisicing elit. Vitae repellendus nihil ab ipsa,
+                        recusandae provident pariatur mollitia vel quod illum error optio sint dignissimos, quia
+                        praesentium fuga eius ullam consequatur!
+                    </div>
+                </div>
+                <div class="vertical">
+                    <img class="image-top" src="img/html-logo.png" alt="">
+                    <div class="vertical-title">
+                        HTML Developer (2014-2016)
+                    </div>
+                    <div class="vertical-desc">
+                        Lorem ipsum dolor sit amet consectetur adipisicing elit. Vitae repellendus nihil ab ipsa,
+                        recusandae provident pariatur mollitia vel quod illum error optio sint dignissimos, quia
+                        praesentium fuga eius ullam consequatur!
+                    </div>
+                </div>
+
+                <div class="vertical">
+                    <img class="image-top" src="img/html-logo.png" alt="">
+                    <div class="vertical-title">
+                        HTML Developer (2016-202)
+                    </div>
+                    <div class="vertical-desc">
+                        Lorem ipsum dolor sit amet consectetur adipisicing elit. Vitae repellendus nihil ab ipsa,
+                        recusandae provident pariatur mollitia vel quod illum error optio sint dignissimos, quia
+                        praesentium fuga eius ullam consequatur!
+                    </div>
+                </div>
+
+
 
     </main>
-  
-    
+    <footer>
+        <div class="footer">
+            <div class="footer-first">
+                <h3>swastik's Developer portfolio </h3>
+            </div>
+            <div class="footer-second">
+                <ul>
 
-
-
-
+                    <li>LinkedIn</li>
+                    <li>Facebook</li>
+                    <li>Instragram</li>
+                    <li>Twiter</li>
+                </ul>
+            </div>
+        </div>
+        <div class="footer-rights">
+          copyright &#169;  www.swastikportfolio.com | All rights  are reserved
+        </div>
+        </div>
+    </footer>
 
 
 
@@ -135,7 +322,7 @@
     <!-- Setup and start animation! -->
     <script>
         var typed = new Typed('#element', {
-            strings: ['<i>C</i> Programing.', '<i>C++</i> Programing.','<i>Java</i> Programing.'],
+            strings: ['<i>C</i> Programing.', '<i>C++</i> Programing.', '<i>Java</i> Programing.'],
             typeSpeed: 50,
         });
     </script>
