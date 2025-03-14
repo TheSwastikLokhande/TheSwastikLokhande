@@ -1,7 +1,6 @@
 
 # 👋 Hi, I'm Swastik Lokhande
 
-![Profile Banner](https://via.placeholder.com/1000x250.png?text=Welcome+to+My+GitHub+Profile)
 
 ### 📧 Contact Me
 - Email: lokhandeswastik273@gmail.com  
