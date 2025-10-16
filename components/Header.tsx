@@ -39,7 +39,7 @@ const Header: React.FC = () => {
         <div className="flex items-center justify-between h-20">
           <div className="flex-shrink-0">
             <a href="#" className="flex items-baseline">
-              <img src="/src/assets/img/Logo.930Z.png" alt="Logo" className="h-10 w-auto" />
+              <img src="/src/assets/img/Logo.png" alt="Logo" className="h-10 w-auto" />
             </a>
           </div>
           <div className="hidden md:block">
