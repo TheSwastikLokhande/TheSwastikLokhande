@@ -3,7 +3,7 @@ import React, { useState, useEffect } from 'react';
 import { motion } from 'framer-motion';
 
 import { useTheme } from '../src/ThemeContext';
-
+import logo from "../src/assets/img/Logo.png";
 const navItems = [
   {name:'Home', href: '#'},
   { name: 'About', href: '#about' },
@@ -39,7 +39,7 @@ const Header: React.FC = () => {
         <div className="flex items-center justify-between h-20">
           <div className="flex-shrink-0">
             <a href="#" className="flex items-baseline">
-              <img src="/src/assets/img/Logo.png" alt="Logo" className="h-10 w-auto" />
+              <img src={logo} alt="Logo" className="h-10 w-auto" />
             </a>
           </div>
           <div className="hidden md:block">
