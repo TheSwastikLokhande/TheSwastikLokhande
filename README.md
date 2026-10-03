@@ -1,4 +1,3 @@
-
 <div align="center">
 
 # Hi there, I'm Swastik Lokhande 👋
@@ -8,7 +7,8 @@
 
 [![Portfolio Website](https://img.shields.io/badge/Portfolio-Live-007ACC?style=for-the-badge&logo=vercel&logoColor=white)](https://github.com/TheSwastikLokhande)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/swastik-lokhande-)
-[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](lokhandeswastik273@gmail.com)
+[![Email](https://img.shields.io/badge/Email-lokhandeswastik273@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lokhandeswastik273@gmail.com)
+[![Call](https://img.shields.io/badge/Call-%2B91%209370925394-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+919370925394)
 
 </div>
 
