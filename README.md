@@ -8,7 +8,7 @@
 [![Portfolio Website](https://img.shields.io/badge/PORTFOLIO-LIVE-007ACC?style=for-the-badge&logo=vercel&logoColor=white)](https://github.com/TheSwastikLokhande)
 [![LinkedIn](https://img.shields.io/badge/LINKEDIN-CONNECT-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/swastik-lokhande-)
 [![Email](https://img.shields.io/badge/EMAIL-CONTACT-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lokhandeswastik273@gmail.com)
-[![Call](https://img.shields.io/badge/CONTACT-CALL-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+919370925394)
+[![Call](https://img.shields.io/badge/CONTACT-CALL-25D366?style=for-the-badge&logoColor=white)](tel:+919370925394)
 
 </div>
 
@@ -21,7 +21,7 @@
 
 ---
 
-### 🛠️️ Tech Stack & Toolkit
+### 🛠 Tech Stack & Toolkit
 
 <div align="center">
 
