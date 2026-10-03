@@ -5,10 +5,10 @@
 ### 🚀 Full-Stack Developer & Systems / Hardware Engineer
 *Bridging the gap between high-performance web applications and deep-level hardware reliability.*
 
-[![Portfolio Website](https://img.shields.io/badge/Portfolio-Live-007ACC?style=for-the-badge&logo=vercel&logoColor=white)](https://github.com/TheSwastikLokhande)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/swastik-lokhande-)
-[![Email](https://img.shields.io/badge/Email-lokhandeswastik273@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lokhandeswastik273@gmail.com)
-[![Call](https://img.shields.io/badge/Call-%2B91%209370925394-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+919370925394)
+[![Portfolio Website](https://img.shields.io/badge/PORTFOLIO-LIVE-007ACC?style=for-the-badge&logo=vercel&logoColor=white)](https://github.com/TheSwastikLokhande)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-CONNECT-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/swastik-lokhande-)
+[![Email](https://img.shields.io/badge/EMAIL-CONTACT-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lokhandeswastik273@gmail.com)
+[![Call](https://img.shields.io/badge/CONTACT-CALL-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+919370925394)
 
 </div>
 
@@ -21,7 +21,7 @@
 
 ---
 
-### 🛠️ Tech Stack & Toolkit
+### 🛠️️ Tech Stack & Toolkit
 
 <div align="center">
 
